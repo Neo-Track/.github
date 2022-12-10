@@ -1,7 +1,7 @@
 # This is NeoTrack.
-NeoTrack aims to allow **anybody** to use one or more Kinect sensors for unparalleled!
+NeoTrack aims to allow **anybody** to use one or more Kinect sensors for unparalleled tracking in many workflows!
 
-NeoTrack supports many different workflows such as;
+You can use NeoTrack to achieve
 
 * Motion Capture
 * Full-Body Tracking
